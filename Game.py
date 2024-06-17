@@ -5,7 +5,7 @@ import sys
 # Initialize pygame
 pygame.init()
 screen = pygame.display.set_mode((800, 600))
-pygame.display.set_caption("Catch Game by Pranish")
+pygame.display.set_caption("Catch the mongus")
 
 # Load images
 player_img = pygame.transform.scale(pygame.image.load('player.png'), (80, 80))
